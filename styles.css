@@ -1,17 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
-body {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
-  color:#fff;
-}
-
-
-
-header {
+/* header {
   background-color: #333;
   color: #fff;
   padding: 10px 20px;
@@ -44,8 +38,8 @@ nav ul li a {
 }
 
 nav ul {
-  margin-left: auto; /* Align to the right */
-}
+  margin-left: auto;
+} */
 
 
 .content {
@@ -65,9 +59,6 @@ nav ul {
   font-size: 36px;
   margin-bottom: 20px;
 }
-
-
-
 .system-description {
   color: #fff;
   margin-bottom: 40px;
